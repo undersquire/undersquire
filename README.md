@@ -9,4 +9,4 @@ You can contact me on discord by friending me: undersquire#0759
 I am not active on any other social media platform.
 
 ### stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=undersquire&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=undersquire&show_icons=true&hide_border=true&theme=dark)
