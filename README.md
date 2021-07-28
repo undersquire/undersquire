@@ -1,7 +1,7 @@
 # About
 - I have been programming for 8+ years.
-- I am interested in game development and software engineering in general.
-- I am mostly experienced with C, C# and Java, however I am also familiar with C++, Rust, HTML, CSS/SCSS, and JavaScript/TypeScript.
+- I am interested in game development and systems programming.
+- I am experienced with C, C#, Java, C++, Rust, HTML, CSS/SCSS, JavaScript/TypeScript, and Python.
 
 ## Contact
 You can contact me on discord by friending me: undersquire#0759
