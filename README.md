@@ -4,7 +4,7 @@
 - I am experienced with C, C++, Rust, Go, C#, Java, Python, JS/TS, HTML, CSS.
 
 ## Contact
-You can contact me on discord by friending me: `undersquire#0759`
+You can friend me on discord @`undersquire`
 
 ### Visitor Count
 <img align="center" src="https://profile-counter.glitch.me/undersquire/count.svg" />
