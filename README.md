@@ -1,5 +1,5 @@
 # About
-- I have been programming for 9+ years.
+- I have been programming for over 10 years.
 - I am interested in game, systems, and network programming.
 - I am experienced with C, C++, Rust, Go, C#, Java, Python, JS/TS, HTML, CSS.
 
